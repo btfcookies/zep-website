@@ -131,8 +131,8 @@ function App() {
 
         <section className="hero-grid">
           <div className="hero-copy">
-            <p className="eyebrow">Discord Birthday Bot</p>
-            <h1>Timezone-aware birthday automation for busy Discord servers.</h1>
+            <p className="eyebrow">Zep</p>
+            <h1>Cutting edge automation for Discord servers</h1>
             <p className="hero-text">
               Zep handles birthday registration, role assignment, and announcement delivery with
               moderator-grade controls and a clean slash-command workflow.
