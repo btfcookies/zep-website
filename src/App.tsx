@@ -118,7 +118,7 @@ function App() {
       <header className="hero">
         <nav className="topbar">
           <div className="brand-lockup">
-            <img className="brand-mark" src="../zeplogo.png" alt="Zep logo" />
+            <img className="brand-mark" src="/zeplogo.png" alt="Zep logo" />
             <span>Zep</span>
           </div>
 
@@ -160,7 +160,7 @@ function App() {
           <div className="hero-visual">
             <div className="logo-panel">
               <div className="logo-halo" />
-              <img className="hero-logo" src="../zeplogo.png" alt="Zep mascot" />
+              <img className="hero-logo" src="/zeplogo.png" alt="Zep mascot" />
               <div className="signal-card signal-primary">
                 <span>Auto role</span>
                 <strong>Birthday role enabled</strong>
